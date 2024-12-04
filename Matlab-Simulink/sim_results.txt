@@ -1,0 +1,11 @@
+% sim results
+
+            DQ      NSQ     MPC
+4 bit
+Ideal:      26.8    39.7    39.7   
+INL:        25.61   38.7    38.7
+
+6 bit:
+Ideal:      26.8    39.7    39.7   
+INL:        25.61   38.7    38.7
+
